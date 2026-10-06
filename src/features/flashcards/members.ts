@@ -15,6 +15,6 @@ export const members: readonly Member[] = [
   {
     id: "marcus-cao",
     name: "Marcus Cao",
-    photo: null,
+    photo: "/members/marcus-cao.jpg",
   },
 ];
